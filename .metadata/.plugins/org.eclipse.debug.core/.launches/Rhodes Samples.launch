@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="rhogenwizard.launcher.rhodesApp">
+<stringAttribute key="aemuname" value="Tablet"/>
+<stringAttribute key="aversion" value="4.0.3"/>
+<stringAttribute key="bversion" value="4.6"/>
+<booleanAttribute key="clean" value="false"/>
+<stringAttribute key="ipversion" value="iphone"/>
+<stringAttribute key="platform" value="iphone"/>
+<stringAttribute key="project_name" value="rhodes-system-api-samples"/>
+<booleanAttribute key="rebuild" value="false"/>
+<booleanAttribute key="trace" value="false"/>
+<stringAttribute key="type_symulator" value="Simulator"/>
+<stringAttribute key="wmversion" value="6.0"/>
+</launchConfiguration>

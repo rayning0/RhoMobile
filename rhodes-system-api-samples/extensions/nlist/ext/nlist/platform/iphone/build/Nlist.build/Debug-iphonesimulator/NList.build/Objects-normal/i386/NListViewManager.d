@@ -1,0 +1,35 @@
+dependencies: \
+  /Users/user/rho/rhodes-system-api-samples/extensions/nlist/ext/nlist/platform/iphone/Classes/NListViewManager.mm \
+  /Users/user/rho/rhodes-system-api-samples/extensions/nlist/ext/nlist/platform/iphone/Classes/NListViewManager.h \
+  /Users/user/.rvm/gems/ruby-1.9.3-p392/gems/rhodes-3.5.1.13/platform/shared/common/RhoNativeViewManager.h \
+  /Users/user/.rvm/gems/ruby-1.9.3-p392/gems/rhodes-3.5.1.13/platform/shared/common/RhoStd.h \
+  /Users/user/.rvm/gems/ruby-1.9.3-p392/gems/rhodes-3.5.1.13/platform/shared/common/RhoPort.h \
+  /Users/user/.rvm/gems/ruby-1.9.3-p392/gems/rhodes-3.5.1.13/platform/shared/common/RhoDefs.h \
+  /Users/user/.rvm/gems/ruby-1.9.3-p392/gems/rhodes-3.5.1.13/platform/shared/common/stat.h \
+  /Users/user/.rvm/gems/ruby-1.9.3-p392/gems/rhodes-3.5.1.13/platform/shared/ruby/ext/rho/rhoruby.h \
+  /Users/user/rho/rhodes-system-api-samples/extensions/nlist/ext/nlist/platform/iphone/Classes/NListTableViewController.h \
+  /Users/user/rho/rhodes-system-api-samples/extensions/nlist/ext/nlist/platform/iphone/Classes/NListDataCache.h \
+  /Users/user/rho/rhodes-system-api-samples/extensions/nlist/ext/nlist/platform/iphone/Classes/Nlist.h \
+  /Users/user/.rvm/gems/ruby-1.9.3-p392/gems/rhodes-3.5.1.13/platform/shared/common/RhodesApp.h \
+  /Users/user/.rvm/gems/ruby-1.9.3-p392/gems/rhodes-3.5.1.13/platform/shared/common/RhodesAppBase.h \
+  /Users/user/.rvm/gems/ruby-1.9.3-p392/gems/rhodes-3.5.1.13/platform/shared/logging/RhoLog.h \
+  /Users/user/.rvm/gems/ruby-1.9.3-p392/gems/rhodes-3.5.1.13/platform/shared/logging/RhoLogConf.h \
+  /Users/user/.rvm/gems/ruby-1.9.3-p392/gems/rhodes-3.5.1.13/platform/shared/common/RhoMutexLock.h \
+  /Users/user/.rvm/gems/ruby-1.9.3-p392/gems/rhodes-3.5.1.13/platform/shared/common/RhoTime.h \
+  /Users/user/.rvm/gems/ruby-1.9.3-p392/gems/rhodes-3.5.1.13/platform/shared/common/RhoThread.h \
+  /Users/user/.rvm/gems/ruby-1.9.3-p392/gems/rhodes-3.5.1.13/platform/shared/common/IRhoThreadImpl.h \
+  /Users/user/.rvm/gems/ruby-1.9.3-p392/gems/rhodes-3.5.1.13/platform/shared/common/AutoPointer.h \
+  /Users/user/.rvm/gems/ruby-1.9.3-p392/gems/rhodes-3.5.1.13/platform/shared/common/RhoSystem.h \
+  /Users/user/.rvm/gems/ruby-1.9.3-p392/gems/rhodes-3.5.1.13/platform/shared/common/StringConverter.h \
+  /Users/user/.rvm/gems/ruby-1.9.3-p392/gems/rhodes-3.5.1.13/platform/shared/logging/RhoLogCat.h \
+  /Users/user/.rvm/gems/ruby-1.9.3-p392/gems/rhodes-3.5.1.13/platform/shared/common/RhoFatalError.h \
+  /Users/user/.rvm/gems/ruby-1.9.3-p392/gems/rhodes-3.5.1.13/platform/shared/common/IRhoClassFactory.h \
+  /Users/user/.rvm/gems/ruby-1.9.3-p392/gems/rhodes-3.5.1.13/platform/shared/common/ThreadQueue.h \
+  /Users/user/.rvm/gems/ruby-1.9.3-p392/gems/rhodes-3.5.1.13/platform/shared/net/INetRequest.h \
+  /Users/user/.rvm/gems/ruby-1.9.3-p392/gems/rhodes-3.5.1.13/platform/shared/common/InputStream.h \
+  /Users/user/.rvm/gems/ruby-1.9.3-p392/gems/rhodes-3.5.1.13/platform/shared/net/HttpServer.h \
+  /Users/user/.rvm/gems/ruby-1.9.3-p392/gems/rhodes-3.5.1.13/platform/shared/common/SplashScreen.h \
+  /Users/user/.rvm/gems/ruby-1.9.3-p392/gems/rhodes-3.5.1.13/platform/shared/common/AppMenu.h \
+  /Users/user/.rvm/gems/ruby-1.9.3-p392/gems/rhodes-3.5.1.13/platform/shared/common/ExtManager.h \
+  /Users/user/.rvm/gems/ruby-1.9.3-p392/gems/rhodes-3.5.1.13/platform/shared/common/push/RhoPushManager.h \
+  /Users/user/.rvm/gems/ruby-1.9.3-p392/gems/rhodes-3.5.1.13/platform/shared/common/push/IRhoPushClient.h

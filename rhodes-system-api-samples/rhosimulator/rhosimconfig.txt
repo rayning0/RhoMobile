@@ -1,0 +1,8 @@
+rhodes_path='/Users/user/.rvm/gems/ruby-1.9.3-p392/gems/rhodes-3.5.1.13'
+app_version='1.0'
+app_name='Rhodes Samples'
+reload_app_changes=0
+debug_port=
+debug_host='127.0.0.1'
+platform='iphone'
+ext_path=/Users/user/.rvm/gems/ruby-1.9.3-p392/gems/rhodes-3.5.1.13/lib/extensions/json;/Users/user/.rvm/gems/ruby-1.9.3-p392/gems/rhodes-3.5.1.13/lib/extensions/rawsensors;/Users/user/.rvm/gems/ruby-1.9.3-p392/gems/rhodes-3.5.1.13/lib/extensions/audiocapture;

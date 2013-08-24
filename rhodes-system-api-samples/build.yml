@@ -1,0 +1,35 @@
+sdkversion: "3.5.0"
+name: "Rhodes Samples"
+version: "1.0"
+vendor: "rhomobile"
+build: "debug"
+bbver: "4.6"
+applog: "rholog.txt"
+iphone:
+  configuration: "Release"
+  sdk: "iphonesimulator6.1"
+  provisionprofile: 
+  codesignidentity: 
+  entitlements: 
+  BundleIdentifier: "com.rhomobile.rhodessamples"
+  BundleURLScheme: "rhodessamples"
+wp:
+  productid: "e9736870-ee64-0130-d780-442a60f92810"
+symbian:
+  uid: "0xe9f47060"
+android:
+  version: "4.1.2"
+  emulator: "Tablet"
+extensions:
+  - json
+  - another-extension
+app_type: "rhoelements"
+capabilities:
+  - gps
+  - pim
+  - camera
+  - vibrate
+  - phone
+  - bluetooth
+  - calendar
+  - non_motorola_device

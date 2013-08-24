@@ -1,0 +1,27 @@
+sdkversion: "3.5.0"
+name: "InventoryManagement"
+version: "1.0"
+vendor: "rhomobile"
+build: "debug"
+bbver: "4.6"
+applog: "rholog.txt"
+iphone:
+  configuration: "Release"
+  sdk: "iphonesimulator5.0"
+  provisionprofile: 
+  codesignidentity: 
+  entitlements: 
+  BundleIdentifier: "com.rhomobile.inventorymanagement"
+  BundleURLScheme: "inventorymanagement"
+wp:
+  productid: "e9736870-ee64-0130-d780-442a60f92810"
+symbian:
+  uid: "0xe9f47060"
+android:
+  version: "4.0.3"
+extensions:
+  - json
+  - another-extension
+app_type: "rhoelements"
+capabilities:
+  - non_motorola_device

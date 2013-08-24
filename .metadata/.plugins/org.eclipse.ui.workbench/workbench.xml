@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench version="2.0">
+<workbenchAdvisor/>
+<window height="713" width="792" x="507" y="45">
+<fastViewData fastViewLocation="1024"/>
+<perspectiveBar>
+<itemSize x="160"/>
+</perspectiveBar>
+<coolbarLayout>
+<coolItem id="group.file" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="106" y="22"/>
+<coolItem id="additions" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="100" y="22"/>
+<coolItem id="org.eclipse.dltk.tcl.ui.debug.consoleActionSet" itemType="typeToolBarContribution" x="40" y="22"/>
+<coolItem id="org.eclipse.egit.ui.gitaction" itemType="typeToolBarContribution" x="192" y="22"/>
+<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="62" y="22"/>
+<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="32" y="22"/>
+<coolItem id="group.nav" itemType="typeGroupMarker"/>
+<coolItem id="group.editor" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.DefaultTextEditor" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="org.eclipse.dltk.ruby.ui.editor.RubyEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="group.help" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="UserSeparator" itemType="typeSeparator"/>
+<coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="152" y="22"/>
+</coolbarLayout>
+<page focus="true" label="Workspace - RhoStudio">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor id="rhogenwizard.editors.RhodesEditor" name="build.yml" partName="build.yml" path="/Users/user/rho/rhodes-system-api-samples/build.yml" title="build.yml" tooltip="rhodes-system-api-samples/build.yml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/rhodes-system-api-samples/build.yml"/>
+</editor>
+<editor activePart="true" focus="true" id="rhogenwizard.editors.RubyEditor" name="index.erb" partName="index.erb" path="/Users/user/rho/rhodes-system-api-samples/app/AnimationTest/index.erb" title="index.erb" tooltip="rhodes-system-api-samples/app/AnimationTest/index.erb" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/rhodes-system-api-samples/app/AnimationTest/index.erb"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.dltk.ruby.ui.editor.RubyEditor" name="controller.rb" partName="controller.rb" path="/Users/user/rho/rhodes-system-api-samples/app/AnimationTest/controller.rb" title="controller.rb" tooltip="rhodes-system-api-samples/app/AnimationTest/controller.rb" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/rhodes-system-api-samples/app/AnimationTest/controller.rb"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+</editors>
+<views>
+<view id="org.eclipse.ui.navigator.ProjectExplorer" partName="Project Explorer">
+<viewState CommonNavigator.LINKING_ENABLED="0" org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets="0"/>
+</view>
+<view id="org.eclipse.ui.views.ProgressView" partName="Progress">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
+<viewState/>
+</view>
+<view id="org.eclipse.egit.ui.RepositoriesView" partName="Git Repositories">
+<viewState CommonNavigator.LINKING_ENABLED="0"/>
+</view>
+</views>
+<perspectives activePart="org.eclipse.ui.navigator.ProjectExplorer" activePerspective="rhogenwizard.perspectives.RhostudioPerspective">
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="rhogenwizard.perspectives.RhostudioPerspective" id="rhogenwizard.perspectives.RhostudioPerspective" label="RhoStudio"/>
+<alwaysOnActionSet id="rhostudio.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.dltk.tcl.ui.debug.consoleActionSet"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.context.ui.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.tasks.ui.navigation"/>
+<alwaysOnActionSet id="org.eclipse.rse.core.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.debugActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.profileActionSet"/>
+<alwaysOnActionSet id="org.eclipse.egit.ui.gitaction"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.file"/>
+<new_wizard_action id="rhogenwizard.wizards.ModelWizard"/>
+<new_wizard_action id="rhogenwizard.wizards.ExtensionWizard"/>
+<new_wizard_action id="rhogenwizard.wizards.SpecWizard"/>
+<new_wizard_action id="rhogenwizard.wizards.SourceAdapterWizard"/>
+<perspective_action id="org.eclipse.dltk.ruby.ui.RubyPerspective"/>
+<perspective_action id="org.eclipse.dltk.ruby.ui.RubyBrowsingPerspective"/>
+<hide_toolbar_item_id id="org.eclipse.jdt.ui.actions.OpenProjectWizard"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<view id="org.eclipse.ui.views.ProgressView"/>
+<view id="org.eclipse.egit.ui.RepositoriesView"/>
+<view id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<fastViewBars/>
+<layout>
+<mainWindow>
+<info folder="true" part="topLeft">
+<folder activePageID="org.eclipse.ui.navigator.ProjectExplorer" appearance="2" expanded="2">
+<page content="org.eclipse.ui.navigator.ProjectExplorer" label="Project Explorer"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="762" ratioRight="254" relationship="2" relative="topLeft">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+</folder>
+</info>
+<info folder="true" part="bottomRight" ratio="0.66832507" ratioLeft="403" ratioRight="200" relationship="4" relative="topLeft">
+<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
+<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<page content="org.eclipse.ui.views.ProgressView" label="Progress"/>
+<page content="org.eclipse.egit.ui.RepositoriesView" label="Git Repositories"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+</presentation>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.24839948" ratioLeft="194" ratioRight="587" relationship="2" relative="topLeft"/>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.dltk.ruby.ui.editor.RubyEditor" path="/rhodes-system-api-samples/app/AjaxTest/controller.rb"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="rhogenwizard.editors.RubyEditor" path="/rhodes-system-api-samples/app/AjaxTest/index.erb"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.dltk.ruby.ui.editor.RubyEditor" path="/rhodes-system-api-samples/app/AnimationTest/controller.rb"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.dltk.ruby.ui.editor.RubyEditor" path="/rhodes-system-api-samples/framework/rho/rhocontroller.rb"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="rhogenwizard.editors.RhodesEditor" path="/rhodes-system-api-samples/build.yml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.dltk.ruby.ui.editor.RubyEditor" path="/rhodes-system-api-samples/app/application.rb"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.dltk.ruby.ui.editor.RubyEditor" path="/rhodes-system-api-samples/app/Calendar/controller.rb"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="rhogenwizard.editors.RubyEditor" path="/rhodes-system-api-samples/app/Calendar/edit.erb"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="rhogenwizard.editors.RubyEditor" path="/rhodes-system-api-samples/app/Calendar/index.erb"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="rhogenwizard.editors.RubyEditor" path="/rhodes-system-api-samples/app/Calendar/layout.erb"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.dltk.ruby.ui.editor.RubyEditor" path="/rhodes-system-api-samples/app/Contacts/controller.rb"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.dltk.ruby.ui.editor.RubyEditor" path="/rhodes-system-api-samples/app/Contacts/controller.rb"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.dltk.ruby.ui.editor.RubyEditor" path="/rhodes-system-api-samples/app/GeoLocation/controller.rb"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="rhogenwizard.editors.RubyEditor" path="/rhodes-system-api-samples/app/GeoLocation/index.erb"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="rhogenwizard.editors.RubyEditor" path="/rhodes-system-api-samples/app/SignatureInline/inline_capture.erb"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="rhogenwizard.editors.RubyEditor" path="/rhodes-system-api-samples/app/SignatureInline/index.erb"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="rhogenwizard.editors.RubyEditor" path="/rhodes-system-api-samples/app/SignatureInline/layout.erb"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="rhogenwizard.editors.RubyEditor" path="/rhodes-system-api-samples/app/SignatureInline/ok.erb"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.dltk.ruby.ui.editor.RubyEditor" path="/rhodes-system-api-samples/app/SignatureInline/signature_inline.rb"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.dltk.ruby.ui.editor.RubyEditor" path="/rhodes-system-api-samples/app/SignatureInline/controller.rb"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.dltk.ruby.ui.editor.RubyEditor" path="/rhodes-system-api-samples/app/AudioCaptureTest/controller.rb"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.dltk.ruby.ui.editor.RubyEditor" path="/rhodes-system-api-samples/app/Media/controller.rb"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="rhogenwizard.editors.RubyEditor" path="/rhodes-system-api-samples/app/Media/index.erb"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.dltk.ruby.ui.editor.RubyEditor" path="/rhodes-system-api-samples/app/AjaxTest/controller.rb"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="/rhodes-system-api-samples/rholog.txt"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="/rhodes-system-api-samples/rhoconfig.txt.changes"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="/rhodes-system-api-samples/rhoconfig.txt"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="" path="/rhodes-system-api-samples/build.yml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="rhogenwizard.editors.RubyEditor" path="/rhodes-system-api-samples/app/AnimationTest/index.erb"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.dltk.ruby.ui.editor.RubyEditor" path="/rhodes-system-api-samples/app/AnimationTest/controller.rb"/>
+</editors>
+<item historyLabel="build.yml" index="4"/>
+<item historyLabel="rhocontroller.rb" index="3">
+<position info="not_deleted" x="74" y="0"/>
+</item>
+<item historyLabel="controller.rb" index="2">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="rhocontroller.rb" index="3">
+<position info="not_deleted" x="74" y="0"/>
+</item>
+<item historyLabel="index.erb" index="1">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="rhocontroller.rb" index="3">
+<position info="not_deleted" x="74" y="0"/>
+</item>
+<item historyLabel="controller.rb" index="0">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="rhocontroller.rb" index="3">
+<position info="not_deleted" x="74" y="0"/>
+</item>
+<item historyLabel="application.rb" index="5">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="rhocontroller.rb" index="3">
+<position info="not_deleted" x="74" y="0"/>
+</item>
+<item historyLabel="controller.rb" index="6">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="edit.erb" index="7">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="index.erb" index="8">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="layout.erb" index="9">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="controller.rb" index="10">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="build.yml" index="4"/>
+<item historyLabel="controller.rb" index="11">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="controller.rb" index="12">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="index.erb" index="13">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="inline_capture.erb" index="14">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="index.erb" index="15">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="layout.erb" index="16">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="ok.erb" index="17">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="signature_inline.rb" index="18">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="controller.rb" index="19">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="controller.rb" index="20">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="controller.rb" index="21">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="index.erb" index="22">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="build.yml" index="4">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="controller.rb" index="23">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="build.yml" index="4"/>
+<item historyLabel="controller.rb" index="23">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="build.yml" index="4"/>
+<item historyLabel="controller.rb" index="23">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="rholog.txt" index="24">
+<position/>
+</item>
+<item historyLabel="build.yml" index="4"/>
+<item historyLabel="build.yml" index="4">
+<position/>
+</item>
+<item historyLabel="build.yml" index="4">
+<position/>
+</item>
+<item historyLabel="rhoconfig.txt.changes" index="25">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="rhoconfig.txt" index="26">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="rholog.txt" index="24">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="rhoconfig.txt.changes" index="25">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="rholog.txt" index="24">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="rhoconfig.txt" index="26">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="build.yml" index="4">
+<position/>
+</item>
+<item historyLabel="build.yml" index="27">
+<position info="not_deleted" x="41" y="0"/>
+</item>
+<item historyLabel="build.yml" index="27">
+<position info="not_deleted" x="467" y="0"/>
+</item>
+<item historyLabel="index.erb" index="28">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="controller.rb" index="29">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item active="true" historyLabel="index.erb" index="28">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+</navigationHistory>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+<trimLayout>
+<trimArea IMemento.internal.id="128">
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
+<trimItem IMemento.internal.id="org.eclipse.mylyn.tasks.ui.trim.container"/>
+</trimArea>
+<trimArea IMemento.internal.id="1024">
+<trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
+<trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+</trimArea>
+</trimLayout>
+</window>
+<mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.dltk.ruby.ui.editor.RubyEditor" name="controller.rb" tooltip="rhodes-system-api-samples/app/AnimationTest/controller.rb">
+<persistable path="/rhodes-system-api-samples/app/AnimationTest/controller.rb"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="rhogenwizard.editors.RubyEditor" name="index.erb" tooltip="rhodes-system-api-samples/app/AnimationTest/index.erb">
+<persistable path="/rhodes-system-api-samples/app/AnimationTest/index.erb"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="rhogenwizard.editors.RhodesEditor" name="build.yml" tooltip="rhodes-system-api-samples/build.yml">
+<persistable path="/rhodes-system-api-samples/build.yml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="rhogenwizard.editors.RubyEditor" name="index.erb" tooltip="rhodes-system-api-samples/app/Media/index.erb">
+<persistable path="/rhodes-system-api-samples/app/Media/index.erb"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.dltk.ruby.ui.editor.RubyEditor" name="controller.rb" tooltip="rhodes-system-api-samples/app/Media/controller.rb">
+<persistable path="/rhodes-system-api-samples/app/Media/controller.rb"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.dltk.ruby.ui.editor.RubyEditor" name="controller.rb" tooltip="rhodes-system-api-samples/app/AudioCaptureTest/controller.rb">
+<persistable path="/rhodes-system-api-samples/app/AudioCaptureTest/controller.rb"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.dltk.ruby.ui.editor.RubyEditor" name="controller.rb" tooltip="rhodes-system-api-samples/app/SignatureInline/controller.rb">
+<persistable path="/rhodes-system-api-samples/app/SignatureInline/controller.rb"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.systemExternalEditor" name="signature_placeholder.png" tooltip="rhodes-system-api-samples/app/SignatureInline/signature_placeholder.png">
+<persistable path="/rhodes-system-api-samples/app/SignatureInline/signature_placeholder.png"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.dltk.ruby.ui.editor.RubyEditor" name="signature_inline.rb" tooltip="rhodes-system-api-samples/app/SignatureInline/signature_inline.rb">
+<persistable path="/rhodes-system-api-samples/app/SignatureInline/signature_inline.rb"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="rhogenwizard.editors.RubyEditor" name="ok.erb" tooltip="rhodes-system-api-samples/app/SignatureInline/ok.erb">
+<persistable path="/rhodes-system-api-samples/app/SignatureInline/ok.erb"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="rhogenwizard.editors.RubyEditor" name="layout.erb" tooltip="rhodes-system-api-samples/app/SignatureInline/layout.erb">
+<persistable path="/rhodes-system-api-samples/app/SignatureInline/layout.erb"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="rhogenwizard.editors.RubyEditor" name="index.erb" tooltip="rhodes-system-api-samples/app/SignatureInline/index.erb">
+<persistable path="/rhodes-system-api-samples/app/SignatureInline/index.erb"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="rhogenwizard.editors.RubyEditor" name="inline_capture.erb" tooltip="rhodes-system-api-samples/app/SignatureInline/inline_capture.erb">
+<persistable path="/rhodes-system-api-samples/app/SignatureInline/inline_capture.erb"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="rhogenwizard.editors.RubyEditor" name="index.erb" tooltip="rhodes-system-api-samples/app/GeoLocation/index.erb">
+<persistable path="/rhodes-system-api-samples/app/GeoLocation/index.erb"/>
+</file>
+</mruList>
+</workbench>

@@ -1,0 +1,9 @@
+rhodes_path='/Users/user/.rvm/gems/ruby-1.9.3-p392/gems/rhodes-3.5.1.13'
+app_version='1.0'
+app_name='InventoryManagement'
+reload_app_changes=0
+debug_port=
+debug_host='127.0.0.1'
+platform='android'
+os_version='4.0.3'
+ext_path=/Users/user/.rvm/gems/ruby-1.9.3-p392/gems/rhodes-3.5.1.13/lib/extensions/json;/Users/user/.rvm/gems/ruby-1.9.3-p392/gems/rhoelements-2.2.1.13/libs/rhoelements;/Users/user/.rvm/gems/ruby-1.9.3-p392/gems/rhodes-3.5.1.13/lib/extensions/rawsensors;/Users/user/.rvm/gems/ruby-1.9.3-p392/gems/rhodes-3.5.1.13/lib/extensions/audiocapture;
